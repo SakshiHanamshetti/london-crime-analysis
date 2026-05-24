@@ -37,7 +37,7 @@ A portfolio project exploring crime patterns across London boroughs using Python
 
 **UK Police Open Data** available at [data.police.uk](https://data.police.uk/data/)
 
-Monthly street-level crime records for the Metropolitan Police Service covering January 2023 to December 2024. The raw dataset contains approximately 1.1 million rows across 12 monthly CSV files.
+Monthly street-level crime records for the Metropolitan Police Service covering April 2023 to March 2024. The raw dataset contains approximately 1.1 million rows across 12 monthly CSV files.
 
 ---
 
