@@ -131,10 +131,10 @@ Built a 4-page interactive dashboard connected to the exported CSV files.
 
 #### Dashboard Screenshots
 
-![Page 1 Overview](dashboard/page1_overview.png)
-![Page 2 Borough Analysis](dashboard/page2_borough_analysis.png)
-![Page 3 Crime Type Breakdown](dashboard/page3_crime_type_breakdown.png)
-![Page 4 Clustering Results](dashboard/page4_clustering_results.png)
+![Page 1 Overview](dashboard/Page_1_Overview.png)
+![Page 2 Borough Analysis](dashboard/Page_2_Borough_Analysis.png)
+![Page 3 Crime Type Breakdown](dashboard/Page_3_Crime_Type_Breakdown.png)
+![Page 4 Clustering Results](dashboard/Page_4_Clustering_Results.png)
 
 > **Note:** The Power BI file requires 8GB or more RAM to open without memory errors due to the size of the dataset.
 
