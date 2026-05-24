@@ -131,10 +131,10 @@ Built a 4-page interactive dashboard connected to the exported CSV files.
 
 #### Dashboard Screenshots
 
-![Page 1 Overview](dashboard/Page_1_Overview.png)
-![Page 2 Borough Analysis](dashboard/Page_2_Borough_Analysis.png)
-![Page 3 Crime Type Breakdown](dashboard/Page_3_Crime_Type_Breakdown.png)
-![Page 4 Clustering Results](dashboard/Page_4_Clustering_Results.png)
+![Page 1 Overview](https://raw.githubusercontent.com/SakshiHanamshetti/london-crime-analysis/main/dashboard/Page%201%20Overview.png)
+![Page 2 Borough Analysis](https://raw.githubusercontent.com/SakshiHanamshetti/london-crime-analysis/main/dashboard/Page%202%20Borough%20Analysis.png)
+![Page 3 Crime Type Breakdown](https://raw.githubusercontent.com/SakshiHanamshetti/london-crime-analysis/main/dashboard/Page%203%20Crime%20Type%20Breakdown.png)
+![Page 4 Clustering Results](https://raw.githubusercontent.com/SakshiHanamshetti/london-crime-analysis/main/dashboard/Page%204%20Clustering%20Results.png)
 
 > **Note:** The Power BI file requires 8GB or more RAM to open without memory errors due to the size of the dataset.
 
